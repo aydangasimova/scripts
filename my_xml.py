@@ -35,5 +35,5 @@ if __name__ == "__main__":
 
         print(transcription)
 
-        with open(output_file, 'w+') as file:
+        with open('{}-out.txt'.format(filename), 'w+') as file:
             file.write(transcription)
