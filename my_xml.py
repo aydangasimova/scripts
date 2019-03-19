@@ -27,3 +27,11 @@ if __name__ == "__main__":
 
     tree = ET.parse(filename)
     root = tree.getroot()
+    transcription = ''
+
+    for speech in root:
+        for wordseq in speech:
+            for word in wordseq:
+                transcription += word.attrib['wordID'] + ' '
+
+    print(transcription)
