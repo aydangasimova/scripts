@@ -1,0 +1,15 @@
+from google.cloud import speech
+from google.cloud.speech import enums
+from google.cloud.speech import types
+
+#ID for the project you want to create.
+Project IDs must start with a lowercase letter and can have lowercase ASCII letters, digits or hyphens. Project IDs must be between 6 and 30 characters.
+
+
+gcloud projects create [PROJECT_ID] [--no-enable-cloud-apis] [--folder=FOLDER_ID] [--labels=[KEY=VALUE,…]] [--name=NAME] [--organization=ORGANIZATION_ID] [--set-as-default] [GCLOUD_WIDE_FLAG …]
+
+
+gcloud projects create experiment-sst-1 --name="Speech-to-Text Experiment"
+
+
+

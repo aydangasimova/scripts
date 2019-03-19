@@ -1,0 +1,19 @@
+conda install -c conda-forge python-levenshtein
+where python3
+pip install opencv-python
+conda activate py3.5.6
+conda install pill
+conda-forge install opencv-python
+conda install -c mcs07 tesseract 
+conda install -c ijstokes pytesseract 
+conda install -c simonflueckiger/label/tesseract-4.0.0-master tesserocr 
+pip install cython
+pip install pytesseract
+conda install -c conda-forge python-levenshtein 
+conda install -c conda-forge opencv 
+conda install -c conda-forge scikit-image
+%had to update conda and anaconda-navigator with conda update conda command
+
+%how to run the script through the notebook?
+%error: the following arguments are required: -i/--input
+%^ when running through the shell
