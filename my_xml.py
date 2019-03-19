@@ -15,23 +15,25 @@ def xml_prep(filename):
 
 if __name__ == "__main__":
 
-    filename = '../doc/telecats/bar.xml'
     file_list = ['../doc/telecats/bar.xml', '../doc/telecats/lubach.xml', '../doc/telecats/lubach2.xml', '../doc/telecats/joardy.xml', '../doc/telecats/joardy2.xml']
 
-    for x in file_list:
+    for filename in file_list:
         try:
             tree = ET.parse(filename)
         except ET.ParseError:
             print("assumed error in xml file - lacking the <root> element. <root> element being added now.")
             xml_prep(filename)
 
-    tree = ET.parse(filename)
-    root = tree.getroot()
-    transcription = ''
+        tree = ET.parse(filename)
+        root = tree.getroot()
 
-    for speech in root:
-        for wordseq in speech:
-            for word in wordseq:
-                transcription += word.attrib['wordID'] + ' '
+        transcription = ''
+        for speech in root:
+            for wordseq in speech:
+                for word in wordseq:
+                    transcription += word.attrib['wordID'] + ' '
 
-    print(transcription)
+        print(transcription)
+
+        with open(output_file, 'w+') as file:
+            file.write(transcription)
