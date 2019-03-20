@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec632f15-4a4b-4e6f-a3b7-ba0354e232a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/transcription/transcribe (local).py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/transcription/transcribe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_xml.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topnews.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/topnewsfeed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml_parser.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/transcription/transcribe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-171">
-              <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+            <state relative-caret-position="210">
+              <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -222,7 +218,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-11" width="1867" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972856" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -283,8 +278,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/transcription/transcribe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171">
-          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        <state relative-caret-position="210">
+          <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
         </state>
       </provider>
     </entry>
