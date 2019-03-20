@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec632f15-4a4b-4e6f-a3b7-ba0354e232a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word error rate/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/word error rate/wer.draft.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/word error rate/wer.orig.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/word error rate/wer.yunus.py" beforeDir="false" />
-    </list>
+    <list default="true" id="ec632f15-4a4b-4e6f-a3b7-ba0354e232a0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/transcription/transcribe.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+              <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -93,6 +87,11 @@
               <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
               <item name="transcription" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="wer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,7 +291,7 @@
     <entry file="file://$PROJECT_DIR$/transcription/transcribe.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
         </state>
       </provider>
     </entry>
