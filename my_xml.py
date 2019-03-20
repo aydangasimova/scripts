@@ -1,5 +1,4 @@
 import xml.etree.ElementTree as ET
-import re
 
 def xml_prep(filename):
     with open(filename, 'a+') as file:

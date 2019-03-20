@@ -2,552 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec632f15-4a4b-4e6f-a3b7-ba0354e232a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ OLD/image1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image101.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image102.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image103.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image105.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image106.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image107.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image108.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image109.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image110.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image112.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image113.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image115.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image116.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image117.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image38.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image39.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image42.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image43.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image45.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image46.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image49.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image52.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image53.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image54.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image56.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image59.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image61.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image62.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image63.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image65.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image66.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image67.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image68.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image69.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image71.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image73.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image74.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image75.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image77.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image78.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image79.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image81.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image82.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image83.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image85.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image86.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image87.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image88.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image89.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image90.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image91.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image92.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image93.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image94.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image95.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image97.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image98.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ OLD/image99.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scripts.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/draft results/temporary files/new_hyp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/draft results/temporary files/new_ref.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/draft results/transcript.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/draft results/transcriptdutch.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drafts/transcription.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drafts/transcriptiondutch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image101.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image102.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image103.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image105.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image106.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image107.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image108.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image109.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image110.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image112.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image113.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image115.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image116.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image117.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image118.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image38.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image39.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image42.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image43.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image45.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image46.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image49.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image52.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image53.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image54.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image56.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image59.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image61.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image62.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image63.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image65.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image66.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image67.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image68.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image69.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image71.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image73.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image74.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image75.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image77.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image78.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image79.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image81.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image82.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image83.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image85.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image86.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image87.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image88.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image89.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image90.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image91.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image92.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image93.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image94.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image95.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image97.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image98.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expats/image99.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getting started/Aydan script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getting started/google.get.started" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getting started/setting up the environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getting started/uri of the dutch video" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_xml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ocr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image101.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image102.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image103.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image105.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image106.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image107.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image108.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image109.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image110.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image112.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image113.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image115.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image116.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image117.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image118.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image119.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image121.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image122.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image123.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image124.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image125.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image126.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image127.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image129.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image130.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image131.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image132.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image133.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image134.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image135.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image136.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image137.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image138.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image139.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image140.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image141.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image142.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image143.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image145.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image146.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image147.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image148.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image149.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image151.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image153.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image154.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image155.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image156.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image157.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image158.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image159.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image160.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image161.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image162.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image163.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image164.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image165.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image166.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image167.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image168.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image169.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image170.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image171.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image172.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image173.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image174.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image175.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image176.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image177.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image178.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image179.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image181.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image182.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image183.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image184.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image185.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image186.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image187.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image188.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image189.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image190.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image191.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image193.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image194.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image195.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image196.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image197.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image198.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image199.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image201.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image202.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image203.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image204.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image205.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image206.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image207.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image208.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image209.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image210.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image211.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image212.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image213.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image214.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image215.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image216.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image217.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image218.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image219.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image220.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image221.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image222.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image223.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image224.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image225.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image226.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image227.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image228.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image229.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image230.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image231.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image232.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image233.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image234.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image235.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image236.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image237.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image238.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image239.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image241.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image242.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image243.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image244.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image245.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image246.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image247.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image248.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image249.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image250.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image251.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image252.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image253.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image254.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image255.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image257.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image258.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image259.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image260.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image261.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image262.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image263.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image264.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image265.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image266.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image267.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image268.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image269.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image270.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image271.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image272.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image273.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image274.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image275.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image276.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image277.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image278.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image279.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image280.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image281.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image282.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image283.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image284.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image38.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image39.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image42.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image43.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image45.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image46.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image49.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image52.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image53.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image54.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image56.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image59.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image61.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image62.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image63.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image65.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image66.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image67.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image68.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image69.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image71.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image73.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image74.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image75.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image77.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image78.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image79.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image81.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image82.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image83.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image85.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image86.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image87.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image88.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image89.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image90.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image91.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image92.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image93.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image94.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image95.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image97.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image98.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_images/image99.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tessocr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/topnews.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/topnewsfeed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transcription/transcribe (local).py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/transcription/transcribe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xml_parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transcribe.py" beforeDir="false" afterPath="$PROJECT_DIR$/transcription/transcribe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_xml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topnews.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topnewsfeed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml_parser.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -557,24 +17,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xml_parser.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/transcription/transcribe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-640">
-              <caret line="4" column="2" selection-start-line="4" selection-end-line="5" />
+            <state relative-caret-position="-171">
+              <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/my_xml.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/transcription/transcribe (local).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-              <folding>
-                <element signature="e#0#34#0" expanded="true" />
-              </folding>
-            </state>
+            <state relative-caret-position="-114" />
           </provider>
         </entry>
       </file>
@@ -588,13 +43,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/transcription" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/xml_parser.py" />
         <option value="$PROJECT_DIR$/my_xml.py" />
+        <option value="$PROJECT_DIR$/wer/wer.yunus.py" />
       </list>
     </option>
   </component>
@@ -607,9 +63,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -617,11 +75,50 @@
               <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="transcription" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="wer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (scripts) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (scripts) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (scripts) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
+              <item name="xml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (scripts) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
+              <item name="xml" type="462c0819:PsiDirectoryNode" />
+              <item name="etree" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -725,14 +222,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-11" width="1867" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972856" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3291536" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
@@ -740,26 +234,57 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3291536" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/xml_parser.py">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-640">
-          <caret line="4" column="2" selection-start-line="4" selection-end-line="5" />
+        <state relative-caret-position="19">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/scripts/lib/python3.6/xml/etree/ElementTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="994">
+          <caret line="173" column="13" selection-start-line="173" selection-start-column="13" selection-end-line="173" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml_parser.py" />
     <entry file="file://$PROJECT_DIR$/my_xml.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="266">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wer/wer.yunus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transcription/transcribe (local).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transcription/transcribe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
         </state>
       </provider>
     </entry>
